@@ -1,4 +1,4 @@
-GenAI-Powered Data Pipeline Using Langflow on Datastax AI PaaS
+# GenAI-Powered Data Pipeline Using Langflow on Datastax AI PaaS
 
 GenAI powered data pipeline is created to design an efficient, scalable and user-friendly way to ingesting, vectorizing and query text data. The architectural decision made to design the data pipeline are mentioned below.
 
